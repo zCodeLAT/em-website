@@ -355,7 +355,7 @@ section {
 # About
 --------------------------------------------------------------*/
 
-.img-fluid {
+.about img {
   border-radius: 250px;
 }
 
@@ -523,7 +523,7 @@ section {
   list-style: none;
   text-align: center;
   background: #fff;
-  border-radius: 50px;
+
   padding: 2px 15px;
 }
 .portfolio #portfolio-flters li {
