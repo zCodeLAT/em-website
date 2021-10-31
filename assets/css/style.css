@@ -254,6 +254,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg_4.jpg") top right no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   position: relative;
   visibility: visible;
 }
@@ -292,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 30px;
 }
 #hero .social-links a {
-  font-size: 24px;
+  font-size: 30px;
   display: inline-block;
   color: #45505b;
   line-height: 1;
@@ -323,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 40px 0;
   overflow: hidden;
 }
 
